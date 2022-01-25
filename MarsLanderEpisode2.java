@@ -1,3 +1,6 @@
+//The solution to the Mars Lander Task 2
+//Full review on https://www.codingame.com/ide/puzzle/mars-lander-episode-2
+
 import java.util.Scanner;
 
 class Player {
